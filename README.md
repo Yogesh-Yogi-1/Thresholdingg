@@ -93,7 +93,6 @@ for i in range(0,9):
 ### Adaptive Thresholding
 ![image](https://github.com/user-attachments/assets/7fab20df-1e0b-40d1-92d2-1e960741c3e1)
 
-<br>
 ![image](https://github.com/user-attachments/assets/7e0ed935-9c37-4742-94f0-3524cf01b898)
 
 <br>
